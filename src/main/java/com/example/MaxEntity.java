@@ -1,4 +1,4 @@
-package net.fabricmc.example;
+package com.example;
 
 import net.minecraft.entity.EntityType;
 import net.minecraft.entity.attribute.DefaultAttributeContainer;
